@@ -11,6 +11,7 @@ namespace MVCTest.Controllers
         // GET: About
         public ActionResult Index()
         {
+            //burası bir yorum satırı
             return View();
         }
     }
