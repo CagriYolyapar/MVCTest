@@ -6,13 +6,11 @@ using System.Web.Mvc;
 
 namespace MVCTest.Controllers
 {
-    public class AboutController : Controller
+    public class IkinciController : Controller
     {
-        // GET: About
+        // GET: Ikinci
         public ActionResult Index()
         {
-            //Controller icin yorum satırı eklendi
-            //burası bir yorum satırı
             return View();
         }
     }
