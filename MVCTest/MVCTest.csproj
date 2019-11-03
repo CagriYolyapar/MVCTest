@@ -106,6 +106,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AboutController.cs" />
+    <Compile Include="Controllers\DDDController.cs" />
     <Compile Include="Controllers\IkinciController.cs" />
     <Compile Include="Controllers\IlkController.cs" />
     <Compile Include="Controllers\UcuncuController.cs" />
@@ -134,6 +135,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\DDD\" />
     <Folder Include="Views\Deneme\" />
     <Folder Include="Views\Ikinci\" />
     <Folder Include="Views\Ilk\" />
