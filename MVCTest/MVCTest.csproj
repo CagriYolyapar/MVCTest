@@ -106,7 +106,6 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AboutController.cs" />
-    <Compile Include="Controllers\IkinciController.cs" />
     <Compile Include="Controllers\IlkController.cs" />
     <Compile Include="Controllers\UcuncuController.cs" />
     <Compile Include="Global.asax.cs">
